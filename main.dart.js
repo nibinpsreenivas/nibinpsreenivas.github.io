@@ -75188,23 +75188,23 @@ return s}if(q>600){s=r.e
 return s}s=r.e
 return s}}
 A.KI.prototype={
-J(a){var s,r=this,q=null,p="icons/briefcase.png",o="Years of Experience",n="icons/menu.png",m="Projects Done",l="icons/coffee.png",k="Coffee Cups",j=A.ae(B.d.bh(178.5),0,0,0),i=t.w,h=a.K(i).f.a.a*0.15,g=r.k7(a,p,"0+",o)
+J(a){var s,r=this,q=null,p="icons/briefcase.png",o="Years of Experience",n="icons/menu.png",m="Projects Done",l="icons/code.png",k="icons/coffee.png",j="Coffee Cups",i=A.ae(B.d.bh(178.5),0,0,0),h=t.w,g=a.K(h).f.a.a*0.15,f=r.k7(a,p,"0+",o)
 $.tG()
 s=t.p
-h=A.aR(q,A.dd(A.a([g,r.k7(a,n,"6+",m),r.k7(a,"icons/code.png","100+","coding"),r.k7(a,l,"\u221e",k)],s),B.z,B.fb,B.p),j,q,400,q,new A.az(h,0,h,0),q)
-i=a.K(i).f.a.a*0.15
-j=r.k7(a,p,"4+",o)
+g=A.aR(q,A.dd(A.a([f,r.k7(a,n,"6+",m),r.k7(a,l,"100+","coding"),r.k7(a,k,"\u221e",j)],s),B.z,B.fb,B.p),i,q,400,q,new A.az(g,0,g,0),q)
+h=a.K(h).f.a.a*0.15
+i=r.k7(a,p,"0+",o)
 $.tG()
-return A.iZ(h,A.aR(q,A.bE(A.a([j,B.aW,r.k7(a,n,"6+",m),B.aW,r.k7(a,"icons/happy.png","50+","Happy Clients"),B.aW,r.k7(a,l,"\u221e",k)],s),B.z,B.o,B.p),B.E,q,q,q,new A.az(i,50,i,50),q))},
+return A.iZ(g,A.aR(q,A.bE(A.a([i,B.aW,r.k7(a,n,"6+",m),B.aW,r.k7(a,l,"100+","coding"),B.aW,r.k7(a,k,"\u221e",j)],s),B.z,B.o,B.p),B.E,q,q,q,new A.az(h,50,h,50),q))},
 k7(a,b,c,d){var s=null,r=t.p
 return A.iZ(A.bE(A.a([A.fK(b,B.h,50),B.cu,A.an(c,s,s,s,s,A.aK(s,s,B.h,s,s,s,s,s,s,s,s,50,s,s,B.bt,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cu,A.an(d,s,s,s,s,A.aK(s,s,B.h,s,s,s,s,s,s,s,s,20,s,s,B.M,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.z,B.o,B.cl),A.bE(A.a([A.fK(b,B.h,40),B.cu,A.an(c,s,s,s,s,A.aK(s,s,B.h,s,s,s,s,s,s,s,s,30,s,s,B.bt,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cu,A.an(d,s,s,s,s,A.aK(s,s,B.h,s,s,s,s,s,s,s,s,15,s,s,B.M,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.z,B.o,B.cl))}}
 A.LJ.prototype={
-J(a){var s,r=this,q=null,p="icons/college.png",o="icons/coding.png",n="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor laboris nisi ut aliquip ex ea commodo.",m=t.w,l=a.K(m).f.a.a*0.15,k=$.Di(),j=t.p
-l=A.aR(q,A.bE(A.a([A.an("EDUCATION",q,q,q,q,k,q,q),A.aR(q,q,B.X,q,2,q,q,100),B.c1,A.aR(q,q,B.X,q,2,q,q,75),B.aW,A.dd(A.a([A.hx(r.mq(a,"01.",p,"B Tech CSE","B.Tech Computer Science & Engineering 2020-Present College of Engineering Chengannur,CGPA 9.1")),B.lM,A.hx(r.mq(a,"02.",p,"HSE","12th board Computer Science 2018 - 2020 NSS Higher Secondary School, Kunnamthanam 88 % DHSE")),B.lM,A.hx(r.mq(a,"03.",o,"Code","Been coding on leetcode and hacker rank for a while now.completed 100+ codein both "))],j),B.z,B.fb,B.p)],j),B.z,B.o,B.p),q,q,q,q,new A.az(l,100,l,100),q)
-m=a.K(m).f.a.a*0.15
-k=A.an("WORKING PROCESS",q,q,q,q,k,B.bl,q)
+J(a){var s,r=this,q=null,p="icons/college.png",o="B Tech CSE",n="B.Tech Computer Science & Engineering 2020-Present College of Engineering Chengannur,CGPA 9.1",m="12th board Computer Science 2018 - 2020 NSS Higher Secondary School, Kunnamthanam 88 % DHSE",l="icons/coding.png",k="Been coding on leetcode and hacker rank for a while now.completed 100+ codein both ",j=t.w,i=a.K(j).f.a.a*0.15,h=$.Di(),g=t.p
+i=A.aR(q,A.bE(A.a([A.an("EDUCATION",q,q,q,q,h,q,q),A.aR(q,q,B.X,q,2,q,q,100),B.c1,A.aR(q,q,B.X,q,2,q,q,75),B.aW,A.dd(A.a([A.hx(r.mq(a,"01.",p,o,n)),B.lM,A.hx(r.mq(a,"02.",p,"HSE",m)),B.lM,A.hx(r.mq(a,"03.",l,"Code",k))],g),B.z,B.fb,B.p)],g),B.z,B.o,B.p),q,q,q,q,new A.az(i,100,i,100),q)
+j=a.K(j).f.a.a*0.15
+h=A.an("Education",q,q,q,q,h,B.bl,q)
 s=$.oT()
-return A.iZ(l,A.aR(q,A.bE(A.a([k,A.aR(q,q,s,q,2,q,q,75),B.c1,A.aR(q,q,s,q,2,q,q,50),B.aW,r.mq(a,"01.","icons/pencil.png","Plan",n),B.e7,r.mq(a,"02.","icons/design.png","Design",n),B.e7,r.mq(a,"03.",o,"Code",n)],j),B.z,B.o,B.p),B.h,q,q,q,new A.az(m,50,m,50),q))},
+return A.iZ(i,A.aR(q,A.bE(A.a([h,A.aR(q,q,s,q,2,q,q,75),B.c1,A.aR(q,q,s,q,2,q,q,50),B.aW,r.mq(a,"01.",p,o,n),B.e7,r.mq(a,"02.",p,"HSE",m),B.e7,r.mq(a,"03.",l,"Code",k)],g),B.z,B.o,B.p),q,q,q,q,new A.az(j,50,j,50),q))},
 mq(a,b,c,d,e){var s=null
 return new A.E8(3,new A.dD(B.nD,A.bE(A.a([new A.e8(B.xN,s,s,A.an(b,s,s,s,s,A.aK(s,s,s,s,s,s,s,s,s,s,s,30,s,s,B.M,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.e7,A.px($.Ug(),s,s),B.e7,A.fK(c,B.r,40),B.S,A.an(d,s,s,s,s,A.aK(s,s,B.r,s,s,s,s,s,s,s,s,25,s,s,B.M,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.e7,A.an(e,s,s,s,s,A.aK(s,s,B.dd,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.bl,s)],t.p),B.z,B.o,B.cl),s),s)}}
 A.a28.prototype={
